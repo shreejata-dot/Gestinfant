@@ -1,5 +1,6 @@
 # Gestinfant (ongoing project)
 This repository provides data and MNEPython-scripts to analyse cross-sectional analyses of fNIRS data on gesture versus manual action perception in 8-mo &amp; 24-mo infants.
+Collaborators: Lucie Greco, Clément François, Judit Gervain, Isabelle Dautriche
 
 In this project, we aim 
 (i) to examine the neural basis associated with the processing of different gesture types (e.g., pointing and familiar as well as unfamiliar iconic gestures) in infancy, and 
@@ -27,4 +28,5 @@ MNEPython script: coming soon
 ## Data analyses
 The oxy-haemoglobin [HbO] and deoxy-haemoglobin [HbR] levels are preprocessed for each channel (between multiple source-detectors) for each participant during two experimental conditions: Action and Gesture. All analyses focused on comparing task-evoked fNIRS signals between two experimental conditions (“Action” vs. “Gesture”) across multiple source-detector channels and hemodynamic measures. 
 
-## Expected outputs
+## Outputs
+Watch this space!
